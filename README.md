@@ -2,6 +2,9 @@
 
 A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. This interactive web-based version brings the timeless game to your browser with a modern, clean interface.
 
+## 🔗 Live Demo
+[Play the game live](https://tic-tac-toe-ehshan.netlify.app/)
+
 ## 🌟 Features
 
 - Clean and modern user interface
@@ -71,7 +74,6 @@ tictactoe/
 │   └── script.js      # Game logic
 └── README.md          # Project documentation
 ```
-
 
 ## 👨‍💻 Author
 
